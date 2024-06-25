@@ -1,4 +1,4 @@
-package com.app.prop;
+package com.app.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
